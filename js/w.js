@@ -1,6 +1,4 @@
 
-
-
 $(document).ready(function(){
    // let lang = ['HTML',"CSS","JAVASCRIPT"]
    let com = {
@@ -13,5 +11,4 @@ $(document).ready(function(){
       console.log(com[v]);
       
     })
-    
 })
